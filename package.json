@@ -1,0 +1,28 @@
+{
+  "name": "adventjs.dev",
+  "version": "1.0.0",
+  "description": "Retos de Midu 2023",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon findFirstRepeated.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonattanEscorihuela/adventjs.dev.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodeJS",
+    "JhonattanE"
+  ],
+  "author": "Jhonattan Escorihuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonattanEscorihuela/adventjs.dev/issues"
+  },
+  "homepage": "https://github.com/JhonattanEscorihuela/adventjs.dev#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
