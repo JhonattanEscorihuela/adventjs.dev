@@ -4,7 +4,7 @@
   "description": "Retos de Midu 2023",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon manufacture.mjs",
+    "start": "nodemon findNaughtyStep.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
